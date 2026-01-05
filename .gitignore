@@ -207,7 +207,7 @@ marimo/_lsp/
 __marimo__/
 
 # data
-data/aliia/
 data/cisTarget/
-data/scenic/inputs/
-data/scenic/grn/
+data/scenic/grn.tsv
+*.h5ad
+*.loom

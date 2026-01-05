@@ -1,0 +1,62 @@
+Ahr(+),	,tf=Ahr,score=2.922626004018417,	Nkain2	Ahr	Gata3	Ptprz1
+Ar(+),	,tf=Ar,score=3.858840525605863,	Vav3	Egfr	Smagp	Gadd45b
+Arid5b(+),	,tf=Arid5b,score=2.051278777434911,	Pdgfrl	Nrxn1	Ghr	Nrk	Elf4	Klf6	Pax7	Tmcc3	Rcan2	Rbms1	Tcerg1l	Prc1	Msx1	Ttyh2	Arap2
+Atf3(+),	,tf=Atf3,score=5.1788417001609774,	Emp2	Pou3f1	Pmp22	Atf3	Mapt	F2rl1	Sfn	Stmn2	Krt19	Pax7	Nrxn1	Arap2
+Bach2(+),	,tf=Bach2,score=3.8178984731502483,	Gabrb3	Gas2	Rabgap1l	Cers6	Rftn1	Pde8b	Gramd4	Piezo2	Pde4b	Dst	Rgs20	Hmcn1	Abtb2	Slc12a2	Man1a	Tbc1d5	Ptprg	Rbfox2	Rims2	Runx2	Col25a1	Prkg2	Kit	Ghr	Ptpn3	Mllt3	Asic2	Foxo1	Arhgef3	Spry4	Arhgef26	Col26a1	Frmd4a	Spon1	Elavl2	Prickle2	Etv5	Kcnma1	Exoc6b	Ext1	Mis18bp1	Lrig3	Cap2	Rcan2	Fzd2	Hecw2	Tle4	Tbx2	Plscr2
+Cers6(+),	,tf=Cers6,score=1.4412327648863095,	Prkd1	Rabgap1l	Lrrc4	Cers6	Mis18bp1	Nwd1	Kctd1
+Creb5(+),	,tf=Creb5,score=3.848339060303894,	Hey2	Col25a1	Creb5	Lama2
+Dach1(+),	,tf=Dach1,score=3.3765592059971614,	Mylk	Sox5	Sema6a	Kirrel3	Lmx1a	Arhgef26
+Ebf1(+),	,tf=Ebf1,score=4.950572799615979,	Shisa2	Pitx2	Gli3	Lef1	Gpc5	Dscam	Robo3	Hpse2	Trpm3	Frmd4a	Igfbp5	Thsd7a	Rec114	Jag1	Loxl1	Celf2	Selenop	Parp8	Col12a1	Fgf14	Nhsl2	Sall1	Tmem266	Sobp	Nrxn3	Ngfr	Frmd4b	Kctd1	Meis2	Map1b	Ppp3ca	Lrfn2	Plcb1
+Ebf3(+),	,tf=Ebf3,score=3.3745473236856594,	Ebf3	Col9a1	Dpysl3	9530059O14Rik	Dock4
+Elk3(+),	,tf=Elk3,score=3.666637783088413,	Gm11627	Nell1	Pax8	Spry4	Frmd4b	Lrig3	Ngfr	Col12a1	Sgip1	Negr1	Shisa6	Gbx2	Fgf15	Adgrl3	Ier3	Cntn4	Ebf2	Gdnf	Lrrc3b	Calcrl	Ntng2	Ctxn3	Rbp4	Elk3	Sytl5	Has2	Scn8a	Socs2	Galnt3	Cdh11	Acss3	Frmpd4	Fgf3	Lama2	Gna14	Trpm3	Abcc4	Bcar3	Cpm	Tmcc3	Creb5	Trappc9	Vcan	Crtac1	Selenop	Jag1	Frmd4a	Cldn10	Lifr	Etv5	Pdzrn4	Sptb	Nr3c2	Jarid2	Id4	Tdrd5	Col26a1	Arhgap28	Hs6st3	Dst	Gcnt2	Arhgef3
+Emx1(+),	,tf=Emx1,score=3.397350155200846,	Neurog2	Selenop	Proser2	Cpm	Hspa2	Akap6	C1ql4	Acss3	Lix1	Klhdc8a	Aard	Sgcd	Col26a1	Fgf15	Frmpd4	Phox2a	Slc35f3	Efnb2	Nhsl2
+Ets1(+),	,tf=Ets1,score=3.9915720093423204,	Susd1	Ahr	Kcnk10	Tmprss2	Nefm	St3gal5	Ablim3	Spink1	Jakmip2	Tubb2b	Slc7a11	Ets1	Igsf3	Tspan18	Cdh6	Bmp6	Dpysl3	Epha4	Usp51	Gpx2	Ptn	Car2	Man1a	Arl4c	Ednra	Fhod3	Megf11	Col9a1	Shank2	B4galt6	Apcdd1	Lsamp	Mgll	Ina	Prickle2	Sox9	Radil	E130114P18Rik	Kirrel3	Sv2c	Prr15	Sox5	Sorl1	Phlda1	Moxd1	Dach1	Mcc	Mylk	Tbx2	Pcdh18	Gata3	Abr	Lmx1a	Ccnd1	Pex5l	Rtn1
+Etv1(+),	,tf=Etv1,score=3.279095685424012,	Frmd4a	Sp5	Kitl	Lmo2	Frmpd4	Sptb	Ghr	Ppp3ca	Trpm3	Irf2	Crispld1	Ripply3	Agtr1a	Etv1	Jag1	Colec12	Arhgap28	Plcb1	Lrfn2	Egflam
+Etv5(+),	,tf=Etv5,score=2.9322052301676975,	Galnt9	Jarid2	Adgrl3	Bmpr1b	Epha4	Lrig3	Pcbp3	Sipa1l1	Negr1	Kalrn	Sema6a	Ccnd1	Pax2	Vcan	Cdh11	Ryr2	Sox9	Sox3	Dlgap1	Elavl2	Gbx2	Igfbp3	Etv5	B4galt6	Grik3	Nr3c2	Shank2
+Foxl2(+),	,tf=Foxl2,score=3.5486602682961146,	Foxl2	Tmem100	Cerk	Fgd5	Emx1	Fgf15	Asah2	Frmpd1	Nkx2-3	Tlx1
+Foxo1(+),	,tf=Foxo1,score=3.9767447812447614,	Mctp2	Tsix	Gramd4	Foxo1	Rftn1	Sel1l3	Tns3	Susd1	Plcb1	Map3k20	Xist	Shank2	Rgs20	Colgalt2	Camk2d	Arhgef26	Dock4	Bicc1	Cachd1	Scn8a	Plcg2	Sox10	Notch1	Ankrd35	Nxnl2	St3gal6	Piezo2	A830018L16Rik	Cap2	Rbfox2	9530059O14Rik	Sorcs1	Igsf11	Abtb2	Runx1t1	Tbx1	Bcar3	Cttnbp2	Spon1	Mllt3	Lsamp	Mgll	Prickle2	Grik2	Epha4	Lrig3	Prr15	Lgr5	Sorbs2	Hmx3	Sox5	Kirrel3	BC006965	Mcc	Tbx2	Sox9	Dpysl3	Col9a1	Sgip1
+Gata3(+),	,tf=Gata3,score=4.092508385828734,	Cldn14	Rassf4	Sox9	Bpgm	Asb4	Ina	Mitf	Nxnl2	Rmst	Sv2c	Arhgef38	Dpysl3	Grik2	Ednrb	Galnt10	Prickle2	Spink1	Mgll	Fhod3	Snx18	Sox5	Gata3	Apcdd1	Nefm	Itga4	Moxd1	Krt23	Cttnbp2	Rnf180	Sorcs1	Tbx2	Tgfa	E130114P18Rik	Grasp	Sox10	Tbx20	Gpx2	Runx1t1	Ankrd6	Sorl1	Mcc	Sorbs2	Runx2	Camk2d	Ccnd1	Pax2	Ebf3	Car2	Kalrn	Deptor	Tlx1	Mllt3	Col9a1	Etv5
+Gbx2(+),	,tf=Gbx2,score=1.9038481805178475,	Pax8	Ntng2	Negr1	Ngfr	Itpr1	Spry1	Cntn4	Ripply3	Sox3	Scn8a	Galnt3	Loxl2	Chn2	Clcnka	Adgrl3	Has2	Sipa1l1	Spry2	Limch1	Nxnl2	Man2a1	Sall1	Ebf2	Foxl2	Gbx2	Tnnt3	Etv5	Irx1	Nr3c2	Irf2	Pcbp3	Cerk	Cldn10	Kitl	Sgms1	Elavl2	Pax2	Nkx2-3	Hmx2	Sox9
+Gli3(+),	,tf=Gli3,score=2.6074290021660533,	Sgms1	Jag1	Prkd1	Bicc1	Cpm
+Grhl2(+),	,tf=Grhl2,score=3.195008943092858,	Nkain2	Amph	Pkp4	Tead1	Greb1l	Eps8	Tanc2	Cnksr2
+Hlf(+),	,tf=Hlf,score=3.1792820637849695,	Fam13a
+Hmx2(+),	,tf=Hmx2,score=4.359666543429698,	Sox9	Mylk	Ebf3	Sox5	Tbx2	Pde7b	Sema6a	Sorbs2	Dach1	Cdh6	Pax2	Gata3
+Hoxa1(+),	,tf=Hoxa1,score=5.518739979456731,	Hotairm1	Pmp22	Syne1	Dlgap2	Dlc1	Hoxa1	Ret	Tnnt3	Smoc2
+Hoxb2(+),	,tf=Hoxb2,score=4.266538699660651,	Prrx2	Pmp22	Hotairm1	Hoxb2	Hoxa1	Dlc1	Tbx1	Man1a	Dgkg	Nkx2-6	Dab2	Ntng2	Slc35f3	Lpar3	Rcsd1	Limch1	Tnnt3	Chn2	Ppm1l	Csmd2	Irx1	Slc15a3	Tmem100	Frmd7
+Irf2(+),	,tf=Irf2,score=3.6254204807127812,	Pdzrn4	Gcnt2	Meis2	Col4a5	Frzb	Hpse2	Sgms1	Rbfox2	Gli3	Col4a6	Rarb	Crispld1	Rbm47	Slc4a5	Efna1
+Isl1(+),	,tf=Isl1,score=4.866374581878853,	Gfra2	Kctd12b	Itsn1	Ccnb1	Masp1	Pitx2	Id1	Ccnd2	Cacnb2	Vgll2	Ebf1	Aqp4	Cenpf	Dgkk	Slc39a8	Kctd1	Igfbp5	Peg3	Adamts12	Uaca	Aurka	Rbm47	Rarb	Trpc5	Rbbp7	Isl2	Dlg2	Tbx20	Hs3st3b1	Car10	Amph	Cthrc1	Nkx2-5	Tbx3	Meis2	Atxn1	Asah2	Exoc6	Pcdh7	Postn	Cyp26a1	Slc35f3	Dcaf12l1	Gpc5	Mis18bp1	Cyp26c1	Nkx2-3	Cdk1	Otx2os1	Syndig1	Crnde	Tcerg1l	Dscam	Sall1	Isl1	Tox3	Tmem266	Lef1	Tlx1	Thsd7a	Otx2	Emx1	Celf2	Egflam	Upp1	Kazald1	Nrp2	Fgf8	Col12a1	Usp44	Prdm6	Irx3	Dcn	Crispld1	Sema3d	Setbp1	Efna1	Tpk1	Firre	Etv1	Rbfox2	Nhsl2	Trpm3	Slc4a5
+Isl2(+),	,tf=Isl2,score=3.1680170596939323,	Isl2	Mis18bp1	Emx1	Irx3	Jag1	Ifnlr1	Pde11a	Ghr	Slit3	Gpc5	Nkx2-3
+Klf6(+),	,tf=Klf6,score=3.516017808436092,	3830417A13Rik	Slit3	Hapln1	Krt18	Arl4a	Rbpms	Map4	Vim	Fhl1	Krt19	Nup62cl	Tfap2c	Rps6ka3	Cntnap2	Elf4	Sgk1	Kcnj3	Basp1	Thsd4	Klf6	Nrxn1	Man1a	Tanc2	Grem1	Stmn2	Rbms1	Gadd45b	Gdf6	Mapt	Igf2r	Crmp1	Pax3	Bex3	Arhgap29	Osbpl8
+Klf7(+),	,tf=Klf7,score=2.387300226344124,	Tanc2	Neurog1	Sept6
+Lef1(+),	,tf=Lef1,score=3.969465536811188,	B230323A14Rik	Top2a	Cenpf	Kctd1	Robo3	Dscam	Grem1
+Lmx1a(+),	,tf=Lmx1a,score=3.349370657583565,	Sox9	Dach1	Tbx2	Car2	Gata3	Pax8	Sox5	Abr	Pax2
+Lmx1b(+),	,tf=Lmx1b,score=1.8437826257993728,	Rps6ka3	Skap2	Atf3	Naaladl2	Crmp1	Cadps	Pax7	Abca4	Nrxn1	Lpp	Stmn2	Flrt3	Slit3	Lmx1b	Krt8	Kcnh7	Irx2	Pou4f1	Ppp1r16b	Bmp5	Pax3	Soga3	Grm3	Ahnak	Klf7	Grem1	Cnksr2
+Meox1(+),	,tf=Meox1,score=3.24045269042126,	Hotairm1	Hoxa1	Pmp22	Smagp	Tnnt3
+Mitf(+),	,tf=Mitf,score=3.0268167474764116,	Moxd1	Fam102b	Ebf3	Mis18bp1	Abtb2	Ncald	Lsamp	Pde7b	Tbx2
+Msx1(+),	,tf=Msx1,score=3.3519772308886,	Tfap2c	Pcdh18	Pou4f1	Dkk1	Cited1	Vim	Gap43	Fmn1	Tiam2	Gdf6	Bmp5	Klf6	Abca4	Map4	Platr22	Tfap2b	Tnfrsf19	Nrxn1	Emp1	Ifitm1	Cntnap2	Ahnak	Stmn2	C130021I20Rik	Crmp1	Dner	3830417A13Rik	Tpm1	Pdlim3	Arhgap24	Unc13d	Nbl1	Adgrv1	Rbms3	Kcnj3	Thsd4	Dlc1	Ank2	Sept6
+Nkx2-3(+),	,tf=Nkx2-3,score=0.15062371559553298,	Nkx2-5	Etv1	Sall1	Tbx3	Hs3st3b1	Meis2	Slc35f3	Fgf8	Car10	Peg3	Foxl2	Loxl2	Cldn10	Syndig1	Isl1	Nkx2-3
+Nkx2-5(+),	,tf=Nkx2-5,score=3.4457859263813106,	Hs3st3b1	Rbbp7	Tlx1	Dcaf12l1	Nkx2-3	Trpc5	Dlg2	Isl1	Tbx3	Atxn1	Adamts12	Kazald1	Kctd1	Masp1	Amph	Tcerg1l	Peg3	Nkx2-5	Asah2	Tox3	Ifitm1	Foxl2	Pcdh7	Otx2os1	Ccnd2	Otx2
+Nkx2-6(+),	,tf=Nkx2-6,score=0.2868691150543275,	Frzb
+Otx2(+),	,tf=Otx2,score=1.6926222961743826,	Otx2os1	Peg3	Crnde	Ccnd2	Pcdh7	Irx3	Nrp2	Lmo1	Isl1	Pitx2	Neurog1	Otx2	Map1b	Synpo2	Pou4f1	Onecut2	Nkx2-5	Tbx3
+Pax2(+),	,tf=Pax2,score=4.63642700682417,	Etv5	Mllt3	Efcab6	Lrig3	Gfra1	Spry4	Ank
+Pax3(+),	,tf=Pax3,score=3.2646726874641163,	Flrt3	Pou4f1	Bmp5	Msx1	Lmx1b	Ahnak	Klf7	Irx2	Crmp1	Onecut2	Ppp1r16b	Cited1	Cdh6
+Pax7(+),	,tf=Pax7,score=3.462436856047521,	Pou3f1	Arhgef37	Pid1	Ajap1	Ttll7	Alk	Syne1	Sgk1	Flrt3	Col23a1	Tiam2	Adgrv1	Dpp6	Colec12
+Peg3(+),	,tf=Peg3,score=0.49394497326517783,	Ccnd2	Asah2	Rbms1	Nkx2-3	Krt18	Nkx2-5
+Pgr(+),	,tf=Pgr,score=5.206539810789907,	Cerk	Twist1	Pakap	Apba1	Calcrl	Nhsl2	Ngfr	Sncaip	Rbfox2	Frmd4a	Sema3d	Sipa1l1	Pax8	Etv1
+Phox2a(+),	,tf=Phox2a,score=4.005896652307053,	Onecut2	Dact1	Shisa6	Sept4	Socs2	Chn2	Pax8	Emx1	Gbx2	Ebf2	Sema6a	Phlda1
+Pou3f1(+),	,tf=Pou3f1,score=4.8356109508831615,	Relb	Skap2	Atf3	Pou3f1	Neurog1	Acta2	Fgfbp1	Dner	Tgfb1i1	H2-K1	Tagln	Sag	Gadd45g	Srrm4	Klhl32	Anxa3	Pax7	Tubb2a	Lfng	F2rl1	3830417A13Rik	Emp1	Arl4a	Sfn	Arap2	Gadd45a	Cped1	Arhgap24	Sgk1	Irx2	Lmx1b	Nrk	Platr22	Cnn2	Msx1	Rps6ka3	Klf7	Krt8	Ahnak
+Pou4f1(+),	,tf=Pou4f1,score=3.186182830280214,	Cpne4	Pou4f1	B230323A14Rik	Msx1	Fam111a	Tiam2	Lmx1b	Gdf6	Irx2	S100a10	Flrt3	Pax3
+Prdm1(+),	,tf=Prdm1,score=3.352227852685902,	Rabgap1l	Arhgap28	Rarb	Adgrl2	Vgll2	Irf2	Uaca	Mis18bp1	Sall1	Iqgap2	Rims2	Adamts12	Fgf1	Rbm20	Slc12a2	Col4a5	Cldn14	Brip1	Deptor	Itsn1	Lrfn2	Meis2	Kctd1	Col4a6	Rbfox2	Spred1	Il15	Lrrc3b	Sobp	Crispld1	Ntng2	Masp1	Plcb1	Rbm47	Atp6v0a4	Syndig1	Spry2	Hs3st3a1	Trpc5	Lamc1	Zfpm2	Prdm1	St8sia2	Gcnt2	Kctd12b	Hoxb2	Fhit	Camk2d	Acss3	Cacnb2	Sgms1	Lifr	Efna1	Cachd1	Ptprg	Dst	Frzb	Exoc6	Cers6	Cpm	Fndc3b	Abr	Cap2	Ncl	Celf2	Frmpd4	A830018L16Rik	Upp1	Itga1	Slc39a8	Tpk1	Trappc9	Ptpn13	Cldn10	Lmo2	Slc4a5	Frmd4a	Trpm3	Rmst	Tlx1	Aqp4	Fam78b	Rnf128	Id4	Col12a1	St3gal6	Rgl1	Elavl2	Vwc2	Dlg2
+Prrx2(+),	,tf=Prrx2,score=2.8837023354118076,	Tbx1	Igfbp3	Ntng2	Gbx2	Cited2	Loxl2	Pmp22	Dab2	Foxl2	Itpr1	Syt12	Hotairm1	Hoxa1	Fgd5	Sox3	Frmd4b	Irx1	Galnt3	Spry1	Spry2	Ebf2	Rarb	Fgf15	Pax8	Nxnl2	Negr1	Tmem100	Ngfr	Camk2d	Nr3c2	Adgrl3	Chn2	Slc35f3	St3gal6	Sall1	Tnnt3	Ppp3ca	Meis2
+Rarb(+),	,tf=Rarb,score=5.035484479318863,	Meis2	Slc1a2	Tnnt3	Kazald1	Prdm1	Nhsl2	Fhit	Gfra2	Irf2	Atxn1	Mis18bp1	Col4a5	Rhox5	Arhgap28	Dgkg	Rec114	Tbx3	Hoxa1	Masp1	Rbm20	Rarb	Slc4a5	Foxl2	Ntng2	Gcnt2	Sall1	Lifr	Nr3c2	Setbp1	Csmd2	Usp53	Rbfox2	Trpm3	Uaca	Kctd1	Gbx2	St8sia2	Tmem100	St6galnac3	Sgms1	Isl1	Frzb	Creb5	Rims2	Has2	Prdm6	Frmpd4	Adamts12	Slc39a8	Vwc2	Cers6	Sec24d	Col12a1	Lrfn2	Kitl	Plcb1	Hotairm1	Galnt13	Firre	Dlg2	Tlx1	Pde11a	Tle4	Trpc5	Etl4	Celf2	Gpc5	Cpm	Sptb	Nxnl2	Prex2	Car10	Negr1	Tpk1	Frmpd1	Epb41l4b	Aard	Hoxb2	Selenop	Airn	Nkx2-5	Irx3	Exoc6	Pitx2	Syndig1	Ccnd2
+Runx2(+),	,tf=Runx2,score=4.72505316243058,	Rsf1os1	Ifnlr1
+Shox2(+),	,tf=Shox2,score=3.1322093147912247,	Clcnka	Hgf	Shox2	Irs4	Pitx2	Ccnd2
+Sox10(+),	,tf=Sox10,score=5.756337969043827,	Lca5l	Gxylt2	Fam102b	Tbx2	Nwd1	Sox5	Sox9	Dpysl3	Moxd1	Sox10	Deptor	Colgalt2	Pde7b	Rftn1	Kirrel3	Fhod3	Prickle2	Mgll	Nefm	Jakmip2	Sv2c	Spink1	Ednrb	Pde4b	Ebf3	St3gal5	Gata3	Unc5c	Lsamp	Gpx2	Grasp	Col9a1	Mitf	Fabp5	Sorcs1	Sorbs2	Car2	Hmx3	Rtn1
+Sox17(+),	,tf=Sox17,score=2.835188039367782,	Bicc1	Pmp22	Kitl	Sp5	Gfra1	Elk3	Dusp6	Fgf15	Ngfr	Frmpd4
+Sox3(+),	,tf=Sox3,score=2.461871420562181,	Phox2a	Irx1
+Sox5(+),	,tf=Sox5,score=2.018972288960458,	Dpp6	Mitf	Firre	Thsd7a	Cacnb2	Setbp1
+Sox9(+),	,tf=Sox9,score=3.1342907835073945,	Sema6a	Car2	Bmpr1b	B4galt6	Sorbs2	Elmo1	Mllt3	Lmx1a	Rmst	Cttnbp2	Phlda1	Tgfa	Tbx2	Hmx3	Elavl2	Unc5c	Cdh11	Pam	Gas2	Dach1	Ets1	Nsg1	Mylk	Prickle2	Nxnl2	Brinp1	Vcan	Igsf3	Grik2	Dpysl3	Kcnh8	Notch1	Runx1t1	Pax8	Nefm	Gfra1	Grasp	Fam78b	Lsamp	Man2a1	Ednrb	Galnt3	St3gal6	Dact1	Pax2	Camk2d	Etv5	Tspan18	Mettl24	Jakmip2	Ebf3	Socs2	Arhgef3	Lrrc3b	Lrig3	Runx2	Nsg2	Gramd4	Pde4b	Fgf3	Dll1	Mitf	Igsf11	Man1a	Car5a	Rrbp1	Lifr	Proser2	Ptpre	Sox9	Bcar3	Dpp6	Spry1	Hapln1	Col25a1	Ahr	Ism1	Aard	Sox3	Atxn1	Deptor	Gbx2
+Tead1(+),	,tf=Tead1,score=4.72482868649958,	Mapt	Pkp4	Otud7a	Airn	Ror2	Peak1	Epb41l4a	Fndc3b	Firre	Peli2	Ptpn14	Tanc2	Ank2	Ext1	Lamc1	Cnksr2	Celf2	Klhl32	Ptpn3	Gramd4	Rcan2	Rbms1	Map4	Dpp6	Kcnh7	Cenpf	Cadps	Sh3kbp1	Arhgap24	Wls	Rims2	Rps6ka3	Fmn1	Osbpl8	Gli3	Iqgap1	Gab2	Greb1l	Mob3b	Eps8	Arhgap29	Tead1	Cobll1	Rbpms	Abca4	Galnt13	Fhl1	Trpc4	Arap2	Rnf128	Nrxn1	Jarid2	Usp53	Tbc1d5	Rnf180	Prkd1	Bmp2	Bmper	Ahr	Arl4c	Kctd1	Rabgap1l	Amph	Dennd5b	Crnde	Stmn2	Adamts19	Lyst	Smoc1	Nkain2	Krt19
+Tfap2b(+),	,tf=Tfap2b,score=1.329068800333191,	Neurog1	Arhgap24	Cast	Lmo1	Otx2	St3gal5	Rbms1	Phf19	F2rl1	Otx2os1	Sfn	Crabp1	Dpysl3
+Tfap2c(+),	,tf=Tfap2c,score=3.9462082800276606,	Wnt6	Klf6	Tpm1	Irx2	Krt18	Msx1	Lmx1b	Tubb2b	Ctnna2	Stmn2	Basp1	Gap43	Nrxn1	Arl4c	Flrt3	Pax7	Fmn1	Crmp1	Ndrg1	Iqgap1	Emp1	Tmsb10	Vim	Il17re	Cntnap2	Cited1	Arid5b	Arap2	Nup62cl	Hapln1	Cdon	Nrk	Bmp5	Rps6ka3	Dner	Naaladl2	Rbpms	Eva1b	Apoe	Klhl32	Dkk1	Ahnak	Tfap2b	Rbms1	Krt19	Phf19	Thsd4	Lpp	Kcnj3	Map4	Tiam2	Alcam	Olfm1	F2rl1	Tanc2	Fgfbp1	Elf4	Ifitm1	Fhl1	3830417A13Rik	Klf7	Arhgap29	Slit3	Scg5	Epb41l4a	Arl4a	Adgrv1	Penk	C130021I20Rik	Rrbp1	Znrf3	Trpc4	Tnfrsf19	Gdf6	Tfap2c	Flnc	Cadps	Ank2	Pde3a	St3gal5	Arhgap24	Pou4f1	Mapt	Ppp1r16b	Unc13d	Rbms3	Atf3	Onecut2	Crabp1	Neurog1	Otx2
+Twist1(+),	,tf=Twist1,score=6.20217308217232,	Galnt9	Col23a1	Atf3	Lsamp	Arl4a	Colec12	Apoe
