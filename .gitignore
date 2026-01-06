@@ -208,6 +208,6 @@ __marimo__/
 
 # data
 data/cisTarget/
-data/scenic/grn.tsv
+*grn.tsv
 *.h5ad
 *.loom
